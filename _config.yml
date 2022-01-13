@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-CH"
-title                    : "Ce Zhang"
+title                    : "Ce Zhang 张策"
 title_separator          : "-"
-name                     : &name "Ce Zhang"
+name                     : &name "Ce Zhang 张策"
 description              : &description "personal description"
 url                      : https://twisttwice.github.io/CeZhang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,9 +85,9 @@ author:
   bio              : ""So we beat on,boats against the current,borne back ceaselessly into the past.""
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "tjuzc209@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -106,10 +106,10 @@ author:
   orcid            : "https://orcid.org/0000-0001-7190-1058"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : #http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
