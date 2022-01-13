@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ce Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : ""So we beat on,boats against the current,borne back ceaselessly into the past.""
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/TwistTwice"
+  github           : "TwistTwice"
   google_plus      :
   keybase          :
   instagram        :
