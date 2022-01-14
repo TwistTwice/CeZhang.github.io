@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Tianjin University, 2015
-* M.S. in Tianjin University, 2019
 * MPhil in Hong Kong University of Science and Technology, 2022 (expected)
+* M.S. in Tianjin University, 2019
+* B.S. in Tianjin University, 2015
 
 Research Interests
 ======
