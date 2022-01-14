@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name "Ce Zhang 张策"
-description              : &description "So we beat on,boats against the current,borne back ceaselessly into the past."
+description              : &description ""So we beat on,boats against the current,borne back ceaselessly into the past."--<i>The Great Gatsby</i>"
 url                      : https://twisttwice.github.io/CeZhang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TwistTwice/CeZhang.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ce Zhang 张策"
   avatar           : "profile.png"
-  bio              : "So we beat on,boats against the current,borne back ceaselessly into the past."
+  bio              : ""So we beat on,boats against the current,borne back ceaselessly into the past."--<i>The Great Gatsby</i>"
   location         : "Location"
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "tjuzc209@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -106,10 +106,10 @@ author:
   orcid            : "https://orcid.org/0000-0001-7190-1058"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : #http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
