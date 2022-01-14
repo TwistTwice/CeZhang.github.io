@@ -8,7 +8,7 @@ venue: 'Expert Systems with Applications'
 paperurl: ''
 citation: 'Runliang Dou, Oguzhan Arslan, and Ce Zhang*, “Biased Autoencoder for Collaborative Filtering with Temporal Signals,” Expert Systems with Applications, Volume 186, 30 December 2021, 115775.'
 ---
-[Download paper here](http://twisttwice.github.io/CeZhang.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.1016/j.eswa.2021.115775)
 
 This paper is about the number 1. The number 2 is left for future work.
 
