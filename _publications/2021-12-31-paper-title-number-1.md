@@ -12,5 +12,5 @@ Abstract: Recommendation systems are used in various types of online platforms a
 
 [Download paper here](https://doi.org/10.1016/j.eswa.2021.115775)
 
-This paper is about the number 1. The number 2 is left for future work.
+
 
