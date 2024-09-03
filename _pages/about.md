@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* MPhil in Hong Kong University of Science and Technology, 2022-
-* M.S. in Tianjin University, 2019-2022
-* B.S. in Tianjin University, 2015-2019
+* PhD candidate in Operations Management, Hong Kong University of Science and Technology, Sep 2024-present
+* MPhil in Operations Management, Hong Kong University of Science and Technology, Sep 2022-Aug 2024
+* M.S. in Management Science and Engineering, Tianjin University, Sep 2019-Jan 2022
+* B.S. in Electronic Commerce, Tianjin University, Sep 2015-Jun 2019
 
 Research Interests
 ======
-* Online Digital Economics
-* Market Mechanism
-* Market Matching
+* Platform Economics
+* Mechanism Design
 
 Papers
 ======
